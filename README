@@ -1,0 +1,30 @@
+Final Project Submission
+
+Tristan English
+CSCI4229 Fall 2022
+
+For this project, I modeled and textured a fully furnished bedroom.
+
+To run, just run make and ./final.
+
+Make sure to press c to see the indivdual objects separately.
+
+Some things I am especially proud of:
+- Walls, door, and window disappear appropriately depending on view angle
+- Luxo Lamp on Desk
+- Chair
+
+
+Key bindings
+  c          Change scene
+  l          Toggles lighting
+  F3         Toggle light distance (1/5)
+  m          Toggles light movement
+  <>         Move light (when stopped)
+  []         Lower/rise light
+  t      enable/disable axes
+  +/-    changes field of view for perspective
+  PgDn/PgUp  Zoom in and out
+  arrows change view angle
+  0      Reset view angle
+  ESC    Exit
