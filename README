@@ -3,7 +3,7 @@ Final Project Submission
 Tristan English
 CSCI4229 Fall 2022
 
-For this project, I modeled and textured a fully furnished bedroom.
+For this project, I modeled, lit, and textured a fully furnished bedroom in OpenGL 2.0.
 
 To run, just run make and ./final.
 
@@ -13,6 +13,9 @@ Some things I am especially proud of:
 - Walls, door, and window disappear appropriately depending on view angle
 - Luxo Lamp on Desk
 - Chair
+- Penguins on Shelves
+
+Texture images sourced from textures.com, CSCIx229 library sourced from Willem A. (Vlakkies) Schreuder.
 
 
 Key bindings
