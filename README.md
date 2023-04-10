@@ -32,7 +32,7 @@ Key bindings\
   PgDn/PgUp &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Zoom in and out\
   arrows &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;change view angle\
   0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Reset view angle\
-  ESC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Exit\
+  ESC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Exit
   
 ## References
 Texture images sourced from textures.com, CSCIx229 library sourced from Willem A. (Vlakkies) Schreuder.
