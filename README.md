@@ -1,4 +1,5 @@
-# OpenGL Bedroom - Final Project Submission for CSCI4229 Fall 2022
+# OpenGL Bedroom - Final Project Submission
+CSCI4229 Fall 2022
 
 ## Description
 Tristan English\
