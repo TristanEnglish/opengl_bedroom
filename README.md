@@ -2,6 +2,10 @@
 Tristan English\
 Computer Graphics (CSCI 4229) Fall 2022
 
+## Screenshot
+
+<img width="595" alt="bedroom" src="https://user-images.githubusercontent.com/71680462/230977126-93a92f38-7d58-4bca-bea2-6badbbcfd371.png">
+
 ## Description
 
 For this project, I modeled, lit, and textured a fully furnished bedroom in OpenGL 2.0!
@@ -11,10 +15,6 @@ Extra notes / things I'm especially proud of:
 - I spent a lot of time on some more complex, non-cuboid objects! The lamps on the dresser and the luxo lamp on the desk proved to be a challenge, as I had to define individual vertices at every point in a cylinder.
 - The penguins were created in my initial OpenGL assignments, and I couldn't bear to see them go! They were written in a function that allows you to specify the color of the penguin without effect on the beak, eye, and belly color.
 - Make sure to press c to see the individual objects separately!
-
-## Screenshot
-
-<img width="595" alt="bedroom" src="https://user-images.githubusercontent.com/71680462/230977126-93a92f38-7d58-4bca-bea2-6badbbcfd371.png">
 
 ## Run Instructions
 
