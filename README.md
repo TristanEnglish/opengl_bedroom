@@ -1,6 +1,6 @@
 # OpenGL Bedroom - Final Project Submission
 Tristan English\
-CSCI 4229 Fall 2022
+Computer Graphics (CSCI 4229) Fall 2022
 
 ## Description
 
