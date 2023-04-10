@@ -1,9 +1,8 @@
 # OpenGL Bedroom - Final Project Submission
-CSCI4229 Fall 2022
-
-## Description
 Tristan English\
 CSCI 4229 Fall 2022
+
+## Description
 
 For this project, I modeled, lit, and textured a fully furnished bedroom in OpenGL 2.0!
 
